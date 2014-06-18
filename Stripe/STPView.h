@@ -7,7 +7,7 @@
 
 #import <UIKit/UIKit.h>
 #import "Stripe.h"
-#import "PKView.h"
+#import <PaymentKit/PKView.h>
 
 #define STPCardErrorUserMessage NSLocalizedString(@"Your card is invalid", @"Error when the card is not valid")
 
